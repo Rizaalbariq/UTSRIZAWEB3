@@ -30,7 +30,7 @@
                     @endauth
                 </div>
             @endif
-            <div class="fw-bold fs-1">UTS RIZA AL-BARIQ</div>
+            <div class="fw-bold fs-1">UTS RIZA AL-BARIQ WEB</div>
            
             </div>
         </div>
